@@ -21,7 +21,7 @@ int main()
 for(i=1;i<=n;i++)
 {
 	
-	printf("%c",array[i]);
+	printf("output %c ",array[i]);
 }
 return 0;
 }
